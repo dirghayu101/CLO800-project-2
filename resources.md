@@ -1,0 +1,5 @@
+- https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-point-to-site-resource-manager-portal
+- https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-certificates-point-to-site
+- https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-certificate-windows-azure-vpn-client
+- https://learn.microsoft.com/en-us/azure/storage/files/storage-how-to-use-files-windows
+- https://learn.microsoft.com/en-us/azure/backup/backup-azure-files?tabs=backup-center
